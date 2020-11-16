@@ -16,7 +16,7 @@ You have to have GarageBand installed on your Mac (of course...)
 
 2. Clone this repo on the same folder (or download the ```tubetogb.py``` to it)
 
-3. Create an empty audio folder inside the same folder. That's where the audio files will be stored
+3. Create an empty ```audio``` folder inside the same folder. That's where the audio files will be stored
 
 4. Activate venv
 ``` source env/bin/activate ```
